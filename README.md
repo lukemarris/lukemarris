@@ -1,6 +1,6 @@
 - 👋 Hi, I am @lukemarris
 - 👨‍💻 I am an artifical intelligence engineer and researcher at [DeepMind](https://www.deepmind.com/)
-- 👀 I am interested in n-player general-sum multi-agent equilibrium computation and artificial intelligence
+- 👀 I am interested in n-player general-sum multiagent equilibrium computation and artificial intelligence
 - 📫 Reach me on twitter [@MarrisLuke](https://twitter.com/MarrisLuke)
 - 🌐 See what I am up to on my [website](https://lukemarris.info/)
 - 📚 See my publications my [Google Scholar](engineer)
