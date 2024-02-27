@@ -2,7 +2,7 @@
 - 👨‍💻 I am an artifical intelligence engineer and researcher at [Google DeepMind](https://www.deepmind.com/)
 - 👀 I am interested in n-player general-sum multiagent equilibrium computation and artificial intelligence
 - 📫 Reach me on twitter [@MarrisLuke](https://twitter.com/MarrisLuke)
-- 🌐 See what I am up to on my [website](https://lukemarris.info/)
+- 🌐 See what I am up to on my [website](https://www.lukemarris.info/)
 - 📚 See my publications my [Google Scholar](engineer)
 
 <!---
